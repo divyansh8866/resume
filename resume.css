@@ -1,0 +1,29 @@
+
+.sub-description{
+    font-size: 10px;
+    color: rgb(100, 100, 100);
+}
+
+p {
+    font-size: 15px;
+    color: rgb(100, 100, 100);
+}
+.padding{
+    padding: 0px 25px 0px 25px;
+}
+
+.layout {
+    margin: 10px 20px 100px 400px;
+}
+
+.bar {
+    margin: 10px 25px 10px 25px;
+}
+
+.four {
+    color: blue;
+}
+
+h6 {
+    padding-top: 10px;
+}
